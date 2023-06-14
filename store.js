@@ -21,7 +21,7 @@ export const store = reactive({
         },
         {
             name: "Federica Misseri",
-            link: "#",
+            link: "https://federica-misseri.netlify.app/",
         },
     ],
 
