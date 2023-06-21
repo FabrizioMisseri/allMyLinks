@@ -23,6 +23,10 @@ export const store = reactive({
             name: "Federica Misseri",
             link: "https://federica-misseri.netlify.app/",
         },
+        {
+            name: "Fabrizio Misseri v2",
+            link: "https://fabrizio-misseri.netlify.app/",
+        },
     ],
 
 });
