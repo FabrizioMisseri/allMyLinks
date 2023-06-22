@@ -13,8 +13,11 @@ export default {
 </script>
 
 <template>
-  <section class="wrapper p-2">
-    <div id="over-flow" class="container-fluid my-5 py-3 fs-5 mx-4 px-4">
+  <section id="over-flow" class="wrapper pt-4 px-5">
+
+
+
+    <div class="container-fluid  fs-5 ">
 
       <div class="btn card record px-4 py-3 my-4" v-for="(item, index) in store.array" :key="index">
         <a :href="item.link">
@@ -22,12 +25,22 @@ export default {
         </a>
       </div>
 
+      <!-- <div class="btn card record px-4 py-3 my-4" v-for="(item, index) in store.array" :key="index">
+        <a :href="item.link">
+          {{ item.name }}
+        </a>
+      </div> -->
+
     </div>
+
+
+
+
   </section>
 </template>
 
 <style lang="scss">
 #over-flow {
-  overflow-y: hidden;
+  overflow-y: auto;
 }
 </style>
