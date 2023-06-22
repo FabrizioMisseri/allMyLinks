@@ -28,6 +28,6 @@ export default {
 
 <style lang="scss">
 #over-flow {
-  overflow-y: auto;
+  overflow-y: hidden;
 }
 </style>
