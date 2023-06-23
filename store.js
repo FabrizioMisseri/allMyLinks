@@ -12,7 +12,7 @@ export const store = reactive({
             link: "https://sitoacazzo.netlify.app/",
         },
         {
-            name: "chatgpt-italiano(phishing)",
+            name: "chatgpt-italiano (leak dati utente inconsapevole)",
             link: "https://iplogger.com/22rhs5",
         },
         {
