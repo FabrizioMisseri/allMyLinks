@@ -4,6 +4,10 @@ export const store = reactive({
 
     array: [
         {
+            name: "Fabrizio Misseri v2",
+            link: "https://fabrizio-misseri.netlify.app/",
+        },
+        {
             name: "Fabrizio Misseri",
             link: "https://legendary-capybara-9207a4.netlify.app/",
         },
@@ -22,10 +26,6 @@ export const store = reactive({
         {
             name: "Federica Misseri",
             link: "https://federica-misseri.netlify.app/",
-        },
-        {
-            name: "Fabrizio Misseri v2",
-            link: "https://fabrizio-misseri.netlify.app/",
         },
     ],
 
