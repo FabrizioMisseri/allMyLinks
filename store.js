@@ -4,12 +4,8 @@ export const store = reactive({
 
     array: [
         {
-            name: "Fabrizio Misseri v2",
-            link: "https://fabrizio-misseri.netlify.app/",
-        },
-        {
             name: "Fabrizio Misseri",
-            link: "https://legendary-capybara-9207a4.netlify.app/",
+            link: "https://fabrizio-misseri.netlify.app/",
         },
         {
             name: "sito a cazzo",
@@ -22,6 +18,14 @@ export const store = reactive({
         {
             name: "esplodi PC-windows",
             link: "https://esplodi-pc.netlify.app/",
+        },
+        {
+            name: "diploma Boolean",
+            link: "https://www.credential.net/d8ef9689-a45c-4e52-9597-920f5b8fbcd5#gs.1tz5b0"
+        },
+        {
+            name: "diploma Experis",
+            link: "https://certificazione-java-fabrizio-misseri.netlify.app"
         },
         {
             name: "Federica Misseri",
