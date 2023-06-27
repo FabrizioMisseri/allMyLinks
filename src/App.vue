@@ -13,7 +13,7 @@ export default {
 </script>
 
 <template>
-  <section id="over-flow" class="wrapper pt-3 px-5">
+  <section class="wrapper p-4">
 
 
 
@@ -26,7 +26,7 @@ export default {
       </div>
 
       <!-- <div class="btn card record px-4 py-3 my-4" v-for="(item, index) in store.array" :key="index">
-        <a :href="item.link">
+        <a class="fs-5" :href="item.link">
           {{ item.name }}
         </a>
       </div> -->
@@ -39,8 +39,4 @@ export default {
   </section>
 </template>
 
-<style lang="scss" scoped>
-#over-flow {
-  overflow-y: auto;
-}
-</style>
+<style lang="scss" scoped></style>
