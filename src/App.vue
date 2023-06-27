@@ -17,10 +17,10 @@ export default {
 
 
 
-    <div class="container-fluid  fs-5 ">
+    <div class="container-fluid">
 
       <div class="btn card record px-4 py-3 my-4" v-for="(item, index) in store.array" :key="index">
-        <a :href="item.link">
+        <a class="fs-5" :href="item.link">
           {{ item.name }}
         </a>
       </div>
@@ -39,7 +39,7 @@ export default {
   </section>
 </template>
 
-<style lang="scss">
+<style lang="scss" scoped>
 #over-flow {
   overflow-y: auto;
 }
