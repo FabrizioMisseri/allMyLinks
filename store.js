@@ -28,6 +28,10 @@ export const store = reactive({
             link: "https://certificazione-java-fabrizio-misseri.netlify.app"
         },
         {
+            name: "GitHub",
+            link: "https://github.com/FabrizioMisseri?tab=repositories",
+        },
+        {
             name: "Federica Misseri",
             link: "https://federica-misseri.netlify.app/",
         },
