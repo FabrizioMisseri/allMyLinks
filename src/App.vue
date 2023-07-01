@@ -39,4 +39,11 @@ export default {
   </section>
 </template>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+a.card:hover {
+
+  color: white;
+  font-weight: 700;
+
+}
+</style>
