@@ -8,10 +8,6 @@ export const store = reactive({
             link: "https://fabrizio-misseri.netlify.app/",
         },
         {
-            name: "sito a cazzo",
-            link: "https://sitoacazzo.netlify.app/",
-        },
-        {
             name: "chatgpt-italiano (leak dati utente inconsapevole)",
             link: "https://iplogger.com/22rhs5",
         },
