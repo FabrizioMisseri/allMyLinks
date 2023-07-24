@@ -9,7 +9,7 @@ export const store = reactive({
         },
         {
             name: "Rigenera il Seed",
-            link: "recover-seed-tool.netlify.app",
+            link: "https://recover-seed-tool.netlify.app/",
         },
         {
             name: "chatgpt-italiano (leak dati utente inconsapevole)",
