@@ -8,6 +8,10 @@ export const store = reactive({
             link: "https://fabrizio-misseri.netlify.app/",
         },
         {
+            name: "Cristian Badei",
+            link: "https://cristian-steel-body.netlify.app/",
+        },
+        {
             name: "Rigenera il Seed",
             link: "https://recover-seed-tool.netlify.app/",
         },
